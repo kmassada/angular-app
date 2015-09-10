@@ -1,7 +1,8 @@
 {
 	"name": "angular.dev",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A starter project for AngularJS",
+	"homepage": "https://github.com/kmassada/angular-app.git",
 	"main": "index.js",
 	"scripts": {
 		"postinstall": "bower install",
@@ -11,7 +12,7 @@
 
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "",
+	"author": "Kenneth Massada",
 	"license": "ISC",
 	"devDependencies": {
 		"bower": "^1.5.2",
